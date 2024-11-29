@@ -3,3 +3,7 @@ title: Andy (Zi'an) Wang
 # description: text below image
 # show_downloads: true
 theme: jekyll-theme-minimal
+collections:
+  blogs:
+    output: true
+    permalink: /blogs/:path/
