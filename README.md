@@ -1,7 +1,7 @@
 # Andy Portfolio
 Andy (Zi'an) Wang portfolio website
 
-### Education
+### Education:High school student
 
 ### Rewards
 
