@@ -1,4 +1,4 @@
-# My Journey into Data Science\
+# My Journey into Data Science
 ## By Andy Wang
 
 This is the content of my first blog article. I want to share how i start to learn about Data Science My Journey into Data Science
