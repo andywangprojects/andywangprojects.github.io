@@ -1,5 +1,5 @@
 # Andy Portfolio
-Andy (Zi'an) Wang portfolio website
+Andy (Zi'an) Wang portfolio 
 
 ### Education:High school student
 
