@@ -1,8 +1,6 @@
 My Journey into Data Science\
 By Andy Wang
 
-<span style="font-size: 20px; color: red;">
-
 This is the content of my first blog article. I want to share how i start to learn about Data Science My Journey into Data Science
 
 This winter vacation, I embarked on an educational journey into the world of data science. My initial exposure came from a video detailing the various career opportunities in the field and what to expect during the job application process. A key takeaway was the realization that the demand for high-caliber talent extends beyond high-tech companies to any organization needing to process data ("Winter Webinar"). An interesting perspective shared in the video highlighted the different focal points of these roles: Data Scientists are more versed in statistics, while Machine Learning Engineers lean more towards computer science aspects.
