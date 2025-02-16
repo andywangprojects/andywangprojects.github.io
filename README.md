@@ -11,6 +11,6 @@ Regression Analysis
 Build a Simple LLM Agent Tool
 
 ### Blogs
-- [Build my first web page](blogs/Build_my_first_web_page.html)
+- [Build my first web page](blogs/My_journey_to_data_science.html)
 
 ### Hobbies
