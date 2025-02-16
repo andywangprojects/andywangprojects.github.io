@@ -11,6 +11,6 @@ Regression Analysis
 Build a Simple LLM Agent Tool
 
 ### Blogs
-- [My journey to data science](blog/My_first_blog_about_data_science.md)
+- [My journey to data science](blog/My_first_blog_about_data_science.html)
 
 ### Hobbies
