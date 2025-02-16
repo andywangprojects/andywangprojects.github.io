@@ -20,11 +20,11 @@ A Day in the Life of a Data Analyst ("Winter Webinar")
 · Evening (After 6 PM): Dedicated time for personal development in data infrastructure and modeling.
 
 Works Cited
+1. Afreen, N. ["A Day in the Life of a Data Analyst."](https://medium.com/@afreenn04/a-day-in-the-life-of-a-data-analyst-938522c93084) Medium, 5 July 2019.  \
+2. Guo, Anyi. ["Data Scientist, Machine Learning Engineer, Data Analyst: What's the Difference?"](https://anyi-guo.medium.com/data-scientist-machine-learning-engineer-data-analyst-whats-the-difference-9546d1788275) Medium, 23 Feb 2021.  \
+3. ["Data Analyst vs. Data Scientist: What's the Difference?"](https://www.coursera.org/articles/data-analyst-vs-data-scientist-whats-the-difference) Coursera, accessed 15 Jan 2021.  \
+4. Adams, Kelly J. ["A Day in the Life of a Data Analyst."](https://www.kellyjadams.com/post/a-day-in-the-life-of-a-data-analyst) Kelly J. Adams Blog, 8 Mar 2020.  \
+5. ["Winter Webinar."](https://offerbang.io/webinar/368/play) Offerbang.io, 2020.  
 
-1.Afreen, N. "A Day in the Life of a Data Analyst." Medium, 5 July 2019, medium.com/@afreenn04/a-day-in-the-life-of-a-data-analyst-938522c93084. \ 
-2.Guo, Anyi. "Data Scientist, Machine Learning Engineer, Data Analyst: What's the Difference?" Medium, 23 Feb 2021, anyi-guo.medium.com/data-scientist-machine-learning-engineer-data-analyst-whats-the-difference-9546d1788275. \
-3."Data Analyst vs. Data Scientist: What's the Difference?" Coursera, accessed 15 Jan 2021, www.coursera.org/articles/data-analyst-vs-data-scientist-whats-the-difference. \
-4.Adams, Kelly J. "A Day in the Life of a Data Analyst." Kelly J. Adams Blog, 8 Mar 2020, www.kellyjadams.com/post/a-day-in-the-life-of-a-data-analyst. \
-5."Winter Webinar." Offerbang.io, 2020, offerbang.io/webinar/368/play. 
 
 
