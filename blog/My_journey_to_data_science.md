@@ -1,3 +1,8 @@
+My Journey into Data Science/
+By Andy Wang
+
+<span style="font-size: 20px; color: red;">
+
 This is the content of my first blog article. I want to share how i start to learn about Data Science My Journey into Data Science
 
 This winter vacation, I embarked on an educational journey into the world of data science. My initial exposure came from a video detailing the various career opportunities in the field and what to expect during the job application process. A key takeaway was the realization that the demand for high-caliber talent extends beyond high-tech companies to any organization needing to process data ("Winter Webinar"). An interesting perspective shared in the video highlighted the different focal points of these roles: Data Scientists are more versed in statistics, while Machine Learning Engineers lean more towards computer science aspects.\
@@ -23,3 +28,5 @@ Works Cited
 3."Data Analyst vs. Data Scientist: What's the Difference?" Coursera, accessed 15 Jan 2021, www.coursera.org/articles/data-analyst-vs-data-scientist-whats-the-difference. \
 4.Adams, Kelly J. "A Day in the Life of a Data Analyst." Kelly J. Adams Blog, 8 Mar 2020, www.kellyjadams.com/post/a-day-in-the-life-of-a-data-analyst. \
 5."Winter Webinar." Offerbang.io, 2020, offerbang.io/webinar/368/play. \
+
+
