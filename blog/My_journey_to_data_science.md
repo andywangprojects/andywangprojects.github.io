@@ -1,5 +1,10 @@
-# My Journey into Data Science
-## By Andy Wang
+---
+layout: post
+title: "My Journey to Data Science"
+date: 2025-02-16
+author: "Andy Wang"
+---
+
 
 This is the content of my first blog article. I want to share how i start to learn about Data Science My Journey into Data Science
 
