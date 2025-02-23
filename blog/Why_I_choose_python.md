@@ -10,7 +10,7 @@ author: "Andy Wang"
 ·  Beginner-Friendly: Python has simple syntax which is based on English, so I think it is suitable for me, as a beginner, to learn.
 · Automation and Efficiency: Python excels in automating repetitive tasks, freeing up time for more creative and meaningful activities.
 
-## 2.What do you like about Python？
+## 2.What do I like about Python？
 · Simplicity and Accessibility: As a high-level, interpreted language, Python simplifies coding with its approachable syntax, which is less prone to exceptions and special cases.
 
 · Open-source Community: The capabilities of the system is continuously upgraded, benefited from the open-source community.
