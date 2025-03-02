@@ -17,7 +17,7 @@ Build a Simple LLM Agent Tool
 
 
 ### Hobbies
-Playing badminton, volleyball and flag football.\
-Working out.\
-Reading books and Listening to music.\
-Planning to learning a new language: Korean
+Playing badminton, volleyball and flag football\
+Working out\
+Reading books and Listening to music\
+Planning to learn a new language: Korean
