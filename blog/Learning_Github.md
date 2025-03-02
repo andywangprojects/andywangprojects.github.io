@@ -25,15 +25,18 @@ https://www.coursera.org/learn/getting-started-with-git-and-github/home/module/1
 
 ## Difference between cloning and forking
 
-· Cloning:
-1.Creates an identical copy of a remote repository on your local machine.
+· Cloning:\
+1.Creates an identical copy of a remote repository on your local machine.\
 2.Used when you want to work on the same project and contribute directly to the original repository.
-· Forking:
-1.Creates a derivative project by copying another repository into your own GitHub account.
-2.Used when you want to make independent changes or create a personal version of a project while keeping a connection to the original (upstream) repository.
-· Contribution Workflow for Forking:
-1.After forking, submit a pull request to propose changes back to the original repository (upstream repo)
-2.Maintainers can review, provide feedback, or ask for conflict resolution.
+
+· Forking:\
+1.Creates a derivative project by copying another repository into your own GitHub account.\
+2.Used when you want to make independent changes or create a personal version of a project while keeping a connection to the original (upstream) repository.\
+
+## Contribution Workflow for Forking:
+
+1.After forking, submit a pull request to propose changes back to the original repository (upstream repo)\
+2.Maintainers can review, provide feedback, or ask for conflict resolution.\
 3.Merge the changes if approved.
 
  ## The roles involved in a GitHub project
@@ -45,7 +48,7 @@ https://www.coursera.org/learn/getting-started-with-git-and-github/home/module/1
 · Integrator:\
 1.Receives and reviews changes made by others\
 2.Respond to pull requests and ensures changes are properly integrated.\
-3.Published the merged results for others to use, often involving more advanced Git commands\
+3.Published the merged results for others to use, often involving more advanced Git commands
 
 · GitHub Repository Administrator:\
 1.Manage the repository’s structure, organization, and interaction.\
