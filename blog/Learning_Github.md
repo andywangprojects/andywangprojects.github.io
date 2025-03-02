@@ -17,11 +17,16 @@ Course Link:\
 
 ## Understanding Git, GitHub, GitLab and Repository
 
-· Git: A versatile control system for tracking changes in code and collaborating with others. As a distributed version control system (DVCS), Git enables reverting to previous states,branching and merging.\
-· GitHub: A popular web-hosted platform for managing Git repositories,offering collaboration tools like pull requests and issue tracking.\
-· GitLab: A DevOps platform delivered as a single application that integrates Git repository management with CI/CD pipelines and other DevOps tools.\
-· Repository: A data structure for storing project files, including application source code, and tracking and maintaining version control.\
-· GitHub Branches: Branches in GitHub store the code in a repository . The main branch typically contains the finished and deployable version of the code, but any branch can be designed as the main. New branches can be created to modify code independently, and changes in these branches will not affect the main branch until they are merged.
+### Git: 
+A versatile control system for tracking changes in code and collaborating with others. As a distributed version control system (DVCS), Git enables reverting to previous states,branching and merging.\
+### GitHub: 
+A popular web-hosted platform for managing Git repositories,offering collaboration tools like pull requests and issue tracking.\
+### GitLab:
+A DevOps platform delivered as a single application that integrates Git repository management with CI/CD pipelines and other DevOps tools.\
+### Repository: 
+A data structure for storing project files, including application source code, and tracking and maintaining version control.\
+### GitHub Branches: 
+Branches in GitHub store the code in a repository . The main branch typically contains the finished and deployable version of the code, but any branch can be designed as the main. New branches can be created to modify code independently, and changes in these branches will not affect the main branch until they are merged.
 
 ## Difference between cloning and forking
 
@@ -32,12 +37,6 @@ Course Link:\
 ### Forking:
 1.Creates a derivative project by copying another repository into your own GitHub account.\
 2.Used when you want to make independent changes or create a personal version of a project while keeping a connection to the original (upstream) repository.
-
-## Contribution Workflow for Forking:
-
-1.After forking, submit a pull request to propose changes back to the original repository (upstream repo)\
-2.Maintainers can review, provide feedback, or ask for conflict resolution.\
-3.Merge the changes if approved.
 
 ## The roles involved in a GitHub project
  
