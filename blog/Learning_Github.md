@@ -18,13 +18,13 @@ Course Link:\
 ## Understanding Git, GitHub, GitLab and Repository
 
 ### Git: 
-A versatile control system for tracking changes in code and collaborating with others. As a distributed version control system (DVCS), Git enables reverting to previous states,branching and merging.\
+A versatile control system for tracking changes in code and collaborating with others. As a distributed version control system (DVCS), Git enables reverting to previous states,branching and merging.
 ### GitHub: 
-A popular web-hosted platform for managing Git repositories,offering collaboration tools like pull requests and issue tracking.\
+A popular web-hosted platform for managing Git repositories,offering collaboration tools like pull requests and issue tracking.
 ### GitLab:
-A DevOps platform delivered as a single application that integrates Git repository management with CI/CD pipelines and other DevOps tools.\
+A DevOps platform delivered as a single application that integrates Git repository management with CI/CD pipelines and other DevOps tools.
 ### Repository: 
-A data structure for storing project files, including application source code, and tracking and maintaining version control.\
+A data structure for storing project files, including application source code, and tracking and maintaining version control.
 ### GitHub Branches: 
 Branches in GitHub store the code in a repository . The main branch typically contains the finished and deployable version of the code, but any branch can be designed as the main. New branches can be created to modify code independently, and changes in these branches will not affect the main branch until they are merged.
 
