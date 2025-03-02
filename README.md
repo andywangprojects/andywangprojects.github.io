@@ -8,7 +8,7 @@ Andy (Zi'an) Wang portfolio
 #### Economics
 1. Reginonal Overall Team Gold Award at National Economics Challenge China Finals 2023\
 2. Top Scoring Team City Award at National Economics Challenge China Finals 2023\
-3.Critical Thinking Overall Team Bronze Award at National Economics Challenge China Finals 2023
+3. Critical Thinking Overall Team Bronze Award at National Economics Challenge China Finals 2023
 
 #### Mathematics
 1. Gold Certificate at Intermediate Mathematical Challenge 2024\
