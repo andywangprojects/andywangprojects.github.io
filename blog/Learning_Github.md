@@ -12,7 +12,8 @@ workflow and practical guidance on how to use GitHub effectively in daily work
 scenarios.This structured approach allowed me to build a clear understanding of
 Git’s fundamentals and gain hands-on experience in applying its concepts.\
 Course Link:\
-https://www.coursera.org/learn/getting-started-with-git-and-github/home/module/1
+[Getting Started with Git and GitHub - Coursera](https://www.coursera.org/learn/getting-started-with-git-and-github/home/module/1)
+
 
 ## Understanding Git, GitHub, GitLab and Repository
 
@@ -39,7 +40,7 @@ https://www.coursera.org/learn/getting-started-with-git-and-github/home/module/1
 2.Maintainers can review, provide feedback, or ask for conflict resolution.\
 3.Merge the changes if approved.
 
- ## The roles involved in a GitHub project
+## The roles involved in a GitHub project
  
 · Developer：\
 1.Communicates and collaborates with others using Git commands\
