@@ -10,8 +10,8 @@ course was designed for beginners and consisted primarily of teaching videos and
 interactive online practice sessions. It provided a comprehensive overview of Git's
 workflow and practical guidance on how to use GitHub effectively in daily work
 scenarios.This structured approach allowed me to build a clear understanding of
-Git’s fundamentals and gain hands-on experience in applying its concepts.
-Course Link:
+Git’s fundamentals and gain hands-on experience in applying its concepts.\
+Course Link:\
 https://www.coursera.org/learn/getting-started-with-git-and-github/home/module/1
 
 ## Understanding Git, GitHub, GitLab and Repository
