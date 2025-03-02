@@ -31,7 +31,7 @@ https://www.coursera.org/learn/getting-started-with-git-and-github/home/module/1
 
 · Forking:\
 1.Creates a derivative project by copying another repository into your own GitHub account.\
-2.Used when you want to make independent changes or create a personal version of a project while keeping a connection to the original (upstream) repository.\
+2.Used when you want to make independent changes or create a personal version of a project while keeping a connection to the original (upstream) repository.
 
 ## Contribution Workflow for Forking:
 
