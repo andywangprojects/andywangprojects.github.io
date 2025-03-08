@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Github vs Honeybomb"
+date: 2025-03-08
+author: "Andy Wang"
+---
 Today, I’d like to share my personal insights on how the GitHub system operates. The reason I came up with the idea to compare it to a honeycomb is that while learning to use GitHub, I noticed that the entire system functions through the collaboration of different modules, which reminded me of a honeycomb structure.
 
 Now, let’s dive into the details of this analogy.
