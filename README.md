@@ -29,7 +29,9 @@ Build a Simple LLM Agent Tool
 - [My journey to data science](blog/My_journey_to_data_science.html)
 - [Why I choose Python](blog/Why_I_choose_python.md)
 - [Learning about Github and how to use it](blog/Learning_Github.md)
-- [Github vs Hoenybomb](blog/Personal_insight_about_Github.md) 
+- [Github vs Hoenybomb](blog/Personal_insight_about_Github.md)
+- [Challenges of Operating GitHub and Their Solutions](blog/Challenges_Github.md)
+  
 
 
 ### Hobbies
