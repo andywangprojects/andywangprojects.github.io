@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "  Key takeaways for an obline business analysis course"
+title: "  Key takeaways from an obline business analysis course"
 date: 2025-03-15
 author: "Andy Wang"
 ---
@@ -28,7 +28,7 @@ Chapter four outlined the essential steps in preparing and organizing data analy
 
 • Data Wrangling: Cleaning and preparing raw data.\
 • Data Visualization: Graphically presenting insights.\
-• Extracting Insights: Interpreting the data to inform decisions.\
+• Extracting Insights: Interpreting the data to inform decisions.
 
 When creating visualizations, the golden rule is ensuring your graph can be understood by the audience within five seconds. Achieving this requires stepping outside your perspective and objectively evaluating visual clarity. Insights should be concise, clear, and conveyed with minimal yet impactful wording.
 
@@ -38,21 +38,21 @@ Lilian emphasized crafting a compelling business strategy in chapter five. A sol
 # Chapter 7: Building a Business Presentation
 In the final chapter covered in this blog, Lilian shared a structured framework for delivering effective business presentations. The recommended structure includes:
 
-1. Cover Slide: Your name and presentation title.\
-2. Prompt Slide: A brief introduction of your presentation’s purpose.\
-3. Agenda Slide: Clearly presenting the structure of your presentation.\
-4. Key Recommendation Slide (Text-only):\
-   - Summarize core insights and recommendations clearly.\
-   - Placement may vary according to context.\
-5. Approach & Framework Slide:\
-   - Explain your analytical logic clearly.\
-   - Simplify complex formulas to facilitate easy understanding.\
-   - Apply creative techniques to boost comprehension.\
-6. Main Body Slides:\
-   - Clearly present one insight per slide.\
-   - Use the formula: Headline = Action Item + Insight + Goal.\
-   - Ensure slide headlines collectively convey a coherent narrative.\
-7. Ending Slide: Conclude with a powerful and memorable closing statement.\
+1. Cover Slide: Your name and presentation title.
+2. Prompt Slide: A brief introduction of your presentation’s purpose.
+3. Agenda Slide: Clearly presenting the structure of your presentation.
+4. Key Recommendation Slide (Text-only):
+   - Summarize core insights and recommendations clearly.
+   - Placement may vary according to context.
+5. Approach & Framework Slide:
+   - Explain your analytical logic clearly.
+   - Simplify complex formulas to facilitate easy understanding.
+   - Apply creative techniques to boost comprehension.
+6. Main Body Slides:
+   - Clearly present one insight per slide.
+   - Use the formula: Headline = Action Item + Insight + Goal.
+   - Ensure slide headlines collectively convey a coherent narrative.
+7. Ending Slide: Conclude with a powerful and memorable closing statement.
    
 # Conclusion
 This course significantly improved my understanding of the role of a business analyst and how data science skills combine effectively with business insights. The structured frameworks and clear steps I learned not only deepened my analytical and strategic capabilities but also provided practical tools and methodologies directly applicable to real-world business cases. I hope these insights benefit you as much as they did for me.
