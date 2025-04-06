@@ -4,8 +4,8 @@ title: "  Key takeaways from an online business analysis course"
 date: 2025-03-15
 author: "Andy Wang"
 ---
-Course Link:\
-- [Business Analysis Course](https://us.ppacademy.cc/project/36651D9F89DA6B24908490D70EE5B2C5/articles)  
+Course Link:
+[Business Analysis Course](https://us.ppacademy.cc/project/36651D9F89DA6B24908490D70EE5B2C5/articles)  
 
 Over the last winter vacation, I joined an online business case study course to explore how data science and statistics knowledge can be applied to real-world business scenarios. Through the guidance of the instructor, Lilian, I learned how business analysts leverage data analysis skills and business insights to tackle practical problems systematically, using tools such as Google Sheets and other online resources. In this blog, I’d like to share my key takeaways from this valuable learning experience.
 
