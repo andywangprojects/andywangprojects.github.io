@@ -31,7 +31,7 @@ Build a Simple LLM Agent Tool
 - [Learning about Github and how to use it](blog/Learning_Github.md)
 - [Github vs Hoenybomb](blog/Personal_insight_about_Github.md)
 - [Challenges of Operating GitHub and Their Solutions](blog/Challenges_Github.md)
-  
+- [Key takeaways from online business analysis course](blog/key_takeaways_from_an_online_business_analysis_course.md)
 
 
 ### Hobbies
