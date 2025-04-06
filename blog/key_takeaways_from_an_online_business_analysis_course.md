@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "  Key takeaways from an obline business analysis course"
+title: "  Key takeaways from an online business analysis course"
 date: 2025-03-15
 author: "Andy Wang"
 ---
