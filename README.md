@@ -40,6 +40,7 @@ Worked on quantitative market analysis, trading and risk projects, including:
 ---
 
 ### Local Technology Company
+
 **Data Analysis Intern — CRM Team**  
 Summers 2024 & 2025 | China
 
@@ -48,8 +49,8 @@ Worked with student-performance and CRM data to support operational and commerci
 - Analysed engagement, progress and support-related data to identify meaningful patterns across different student groups.
 - Segmented students to support more targeted follow-up, intervention and resource allocation.
 - Improved recurring Excel reporting workflows to make key information more accessible to internal teams.
-- Worked with teachers, engineers and marketing staff to refine analytical outputs and translate data findings into practical recommendations.
-- Developed experience in turning raw data into actionable commercial and operational decisions rather than treating analysis as an isolated technical exercise.
+- Worked with teachers, engineers and marketing staff to translate analytical findings into practical recommendations.
+- Developed experience in turning raw data into actionable commercial and operational decisions.
 ---
 
 ## Featured Projects
