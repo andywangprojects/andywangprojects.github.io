@@ -143,7 +143,7 @@ The project also reviews fraud-prevention and model-risk guidance from Mastercar
 
 ## Selected Writing
 
-- [My Journey to Data Science](blog/My_journey_to_data_science.html)
+- [My Journey to Data Science](blog/My_journey_to_data_science.md)
 - [Why I Chose Python](blog/Why_I_choose_python.md)
 - [Learning GitHub and How to Use It](blog/Learning_Github.md)
 - [GitHub vs Honeycomb](blog/Personal_insight_about_Github.md)
