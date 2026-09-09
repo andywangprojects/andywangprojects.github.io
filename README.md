@@ -49,8 +49,9 @@ Worked with student-performance and CRM data to support operational and commerci
 - Analysed engagement, progress and support-related data to identify meaningful patterns across different student groups.
 - Segmented students to support more targeted follow-up, intervention and resource allocation.
 - Improved recurring Excel reporting workflows to make key information more accessible to internal teams.
-- Worked with teachers, engineers and marketing staff to translate analytical findings into practical recommendations.
 - Developed experience in turning raw data into actionable commercial and operational decisions.
+- Worked with teachers, engineers and marketing staff to translate analytical findings into practical recommendations.
+
 ---
 
 ## Featured Projects
