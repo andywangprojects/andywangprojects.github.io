@@ -93,8 +93,9 @@ The project evaluates sector-level risk and return characteristics using Sharpe 
 
 The analysis found clear differences between growth-oriented technology exposure, relatively more stable financial-sector behaviour and the cyclical risk characteristics of energy markets.
 
-- [View Report](https://github.com/andywangprojects/cross-sector-etf-risk-analysis/blob/main/report/Cross_Sector_ETF_Risk_Analysis_Report.md)
 - [View GitHub Repository](https://github.com/andywangprojects/cross-sector-etf-risk-analysis)
+- [View Report](https://github.com/andywangprojects/cross-sector-etf-risk-analysis/blob/main/report/Cross_Sector_ETF_Risk_Analysis_Report.md)
+
 
 ---
 
