@@ -25,19 +25,33 @@ My projects focus on applying data analysis, statistical modelling and machine l
 
 ## Experience
 
+## Experience
+
 ### STEALTH
 **Sales & Trading Intern — Trading & Risk Focus**  
 Summer 2026 | Remote
 
 Worked on quantitative market analysis, trading and risk projects, including:
 
-- Cross-sector ETF risk analysis
-- Multi-asset forecasting across equities and cryptocurrencies
-- Model validation and benchmark comparison
-- Volatility and regime analysis
-- Monte Carlo uncertainty analysis
-- Translation of quantitative outputs into trading and risk interpretation
+- Conducted cross-sector ETF risk analysis across XLK, XLF and XLE using VaR, CVaR, Sharpe Ratio and Maximum Drawdown.
+- Developed cross-asset forecasting analysis covering TSLA, GOOGL, BTC and ETH using ARIMA, Random Forest and Monte Carlo simulation.
+- Evaluated model performance using leakage-safe validation, benchmark comparison and out-of-sample testing.
+- Interpreted quantitative outputs from a trading and risk perspective, including volatility regimes, forecast bias and uncertainty.
+- Communicated proactively with mentors through regular progress updates, clarification of modelling decisions and incorporation of feedback.
 
+---
+
+### Local Technology Company
+**Data Analysis Intern — CRM Team**  
+Summers 2024 & 2025 | China
+
+Worked with student-performance and CRM data to support operational and commercial decision-making.
+
+- Analysed engagement, progress and support-related data to identify meaningful patterns across different student groups.
+- Segmented students to support more targeted follow-up, intervention and resource allocation.
+- Improved recurring Excel reporting workflows to make key information more accessible to internal teams.
+- Worked with teachers, engineers and marketing staff to refine analytical outputs and translate data findings into practical recommendations.
+- Developed experience in turning raw data into actionable commercial and operational decisions rather than treating analysis as an isolated technical exercise.
 ---
 
 ## Featured Projects
@@ -79,7 +93,7 @@ The project evaluates sector-level risk and return characteristics using Sharpe 
 
 The analysis found clear differences between growth-oriented technology exposure, relatively more stable financial-sector behaviour and the cyclical risk characteristics of energy markets.
 
-- [View Report](https://github.com/andywangprojects/cross-sector-etf-risk-analysis/blob/main/report/Reurn_Performance_Analysis_2.md)
+- [View Report](https://github.com/andywangprojects/cross-sector-etf-risk-analysis/blob/main/report/Cross_Sector_ETF_Risk_Analysis_Report.md)
 - [View GitHub Repository](https://github.com/andywangprojects/cross-sector-etf-risk-analysis)
 
 ---
