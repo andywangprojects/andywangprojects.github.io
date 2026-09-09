@@ -25,8 +25,6 @@ My projects focus on applying data analysis, statistical modelling and machine l
 
 ## Experience
 
-## Experience
-
 ### STEALTH
 **Sales & Trading Intern — Trading & Risk Focus**  
 Summer 2026 | Remote
@@ -152,17 +150,10 @@ The project also reviews fraud-prevention and model-risk guidance from Mastercar
 
 ---
 
-## Skills
+## Skills & Interests
 
-**Technical:** Excel，Python and R
-**Interests:** Quantitative finance, global markets, trading, risk and data-driven decision-making
+**Technical Skills:** Excel, Python, R
 
----
+**Areas of Interest:** Quantitative Finance, Global Markets, Trading, Risk, Data-Driven Decision-Making
 
-## Interests
-
-- Fitness
-- Badminton
-- Volleyball
-- Flag football
-- Reading
+**Personal Interests:** Fitness, Badminton, Volleyball, Flag Football, Reading
