@@ -26,7 +26,7 @@ My projects focus on applying data analysis, statistical modelling and machine l
 ## Experience
 
 ### STEALTH
-**Sales & Trading Intern — Trading & Risk Focus**  
+**Quant Trading Intern — Trading & Risk Focus**  
 Summer 2026 | Remote
 
 Worked on quantitative market analysis, trading and risk projects, including:
@@ -39,10 +39,10 @@ Worked on quantitative market analysis, trading and risk projects, including:
 
 ---
 
-### Local Technology Company
+### Qingyuan Growth Education Technology Co., Ltd.
 
 **Data Analysis Intern — CRM Team**  
-Summers 2024 & 2025 | China
+Summers 2025 | China
 
 Worked with student-performance and CRM data to support operational and commercial decision-making.
 
